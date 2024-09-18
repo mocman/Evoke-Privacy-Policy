@@ -27,7 +27,7 @@ Evoke accesses the media files you import (e.g., images, videos) for creating pr
 All subscription payments are handled through the App Store. Evoke does not store or process any payment information. For more information, please refer to Apple’s privacy policy and terms.
 
 ### 7. Questions about This Policy & Terms
-If you have a question about this privacy and how your data are collected, used and stored when you use Spatial Effects, please feel free to email me at support [at] choircreator.com with the subject line “Evoke - Data Question” and let me know how we can help you.
+If you have a question about this privacy and how your data are collected, used and stored when you use Evoke, please feel free to email me at support [at] choircreator.com with the subject line “Evoke - Data Question” and let me know how we can help you.
 
 ### 8. Changes to This Policy
 We reserve the right to update this Privacy Policy. Any changes will be reflected in the app, and we recommend reviewing this policy periodically.
