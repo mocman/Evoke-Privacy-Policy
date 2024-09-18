@@ -41,13 +41,13 @@ Sempter 17, 2024
 ### 1. Acceptance of Terms
 By using Evoke, you agree to these Terms of Service. If you do not agree to these terms, please do not use the app.
 
-### 2. User Responsibilities
-You are responsible for ensuring that any content you create or upload within Evoke does not infringe on the copyrights of others. You agree not to use Evoke to share or distribute copyrighted material without proper authorization.
-
-### 3. Subscriptions
+### 2. Subscriptions
 If you choose to buy an Evoke Unlocked subscription, payment will be charged to your Apple ID account at the confirmation of purchase. The subscription automatically renews unless it is canceled at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period. You can manage and cancel your subscriptions by going to your account settings on the App Store after purchase. More info can be found on Apple´s website.
 
 All purchases are final. We cannot issue refunds for purchases charged to your Apple ID.
+
+### 3. User Responsibilities
+You are responsible for ensuring that any content you create or upload within Evoke does not infringe on the copyrights of others. You agree not to use Evoke to share or distribute copyrighted material without proper authorization.
 
 ### 4. Content Ownership
 Any slides, media, or presentations created in Evoke remain your property. Evoke does not claim ownership of the content you create. However, you are responsible for ensuring that any content does not violate third-party rights.
